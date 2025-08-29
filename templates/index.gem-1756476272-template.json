@@ -1,0 +1,435 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "2f1503cf-2466-410e-9c92-05c6c2351f58": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<video class=\"home-video\" width=\"100%\" height=\"700\" muted=\"\" controls=\"\" allow=\"autoplay\" autoplay=\"\" loop=\"true\" style=\"\n    object-fit: cover;\">\n \n <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0e5e3165a7ff4ca499e18cd81b81cdc9.mp4\">\n\n<\/video>\n<script>\n    document.getElementById('vid').play();\n<\/script>"
+      }
+    },
+    "169c1b4b-75e0-4783-bbe9-70263e6074f2": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"wrapper row\" id=\"wrapper\">\n  <div class=\"col-md-12 headerarea text-center\">\n    <h3 class=\"messageheading1\">SELAMAT DATANG DI<\/h3>\n    <h1 class=\"titlofmessage\">BALI BEANS<\/h1>\n    <h4 class=\"messagefrom\">BENAR-BENAR PERDAGANGAN LANGSUNG DARI PERKEBUNAN KAMI KE CANGKIR ANDA<\/h4>\n  <\/div>\n<\/div>"
+      }
+    },
+    "01616208-2a74-4f0d-8cb1-1ece261dc5d0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"row services_section\">\n    <div class=\"col_01\">\n        <div class=\"bgimg_1\">\n            <div class=\"empty_height\"><\/div>\n            <div class=\"overlay_content\">\n                <h3>GROSIR <\/h3>\n                <a href=\"https:\/\/newbali.myshopify.com\/pages\/contact\"><button>TANYAKAN SEKARANG<\/button><\/a>\n            <\/div>\n        <\/div>\n    <\/div>\n    <div class=\"col_01\">\n        <div class=\"bgimg_2\">\n            <div class=\"empty_height\"><\/div>\n            <div class=\"overlay_content\">\n                <h3>TOKO ONLINE<\/h3>\n                <a href=\"https:\/\/newbali.myshopify.com\/pages\/shop\"><button>TEMUKAN LEBIH BANYAK<\/button<\/a>\n            <\/div>\n        <\/div>\n    <\/div>\n    <div class=\"col_01\">\n        <div class=\"bgimg_3\">\n            <div class=\"empty_height\"><\/div>\n            <div class=\"overlay_content\">\n                <h3>CERITA KAMI<\/h3>\n                <a href=\"https:\/\/newbali.myshopify.com\/pages\/our-story\"><button>BACA SELENGKAPNYA<\/button><\/a>\n            <\/div>\n        <\/div>\n    <\/div>\n    <div class=\"col_01\">\n        <div class=\"bgimg_4\">\n            <div class=\"empty_height\"><\/div>\n            <div class=\"overlay_content\">\n                <h3>AKTIVITAS<\/h3>\n                <a href=\"https:\/\/newbali.myshopify.com\/pages\/experience\"><button>PESAN SEKARANG<\/button><\/a>\n            <\/div>\n        <\/div>\n    <\/div>\n    <div class=\"col_01\">\n        <div class=\"bgimg_5\">\n            <div class=\"empty_height\"><\/div>\n            <div class=\"overlay_content\">\n                <h3>HUBUNGI KAMI<\/h3>\n                <a href=\"https:\/\/newbali.myshopify.com\/pages\/contact\"><button>KIRIM PESAN<\/button><\/a>\n            <\/div>\n        <\/div>\n    <\/div>\n<\/div>"
+      }
+    },
+    "8efc893e-afb2-4fef-b6b1-4bee91b3bcfd": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": "<div class=\"container loveicons\">\n  <div class=\"row\"> \n    <h2 class=\"lovesection_heading\">Kami yakin anda tidak berkompromi dalam kualitas, rasa yang enak dan kebaikan murni dan itulah mengapa kami tahu anda akan menyukai Bali Beans Coffee. <\/h2>\n  <\/div>\n  <div class=\"row\">\n    <div class=\"col_love1\">\n      <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0716\/7233\/2564\/files\/homelove_icon_01.svg\" \/>\n      <h3 class=\"loveimg\">#wegrow<\/h3>\n      <p class=\"lovetext\">Ditumbuhkan di perkebunan alami yang teduh dan ramah lingkungan, tanpa menggunakan bahan kimia apapun.<\/p>\n    <\/div>\n    <div class=\"col_love1\">\n      <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0716\/7233\/2564\/files\/homelove_icon_02.svg\" \/>\n      <h3 class=\"loveimg\">#wefarm<\/h3>\n      <p class=\"lovetext\">Dengan cinta, dedikasi keluarga  kami dan sesama petani memberikan komitmen penuh dalam aktivitas, sejarah dan pengetahuan yang kami dapat selama bertahun-tahun.<\/p>\n    <\/div>\n    <div class=\"col_love1\">\n      <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0716\/7233\/2564\/files\/homelove_icon_03.svg\" \/>\n      <h3 class=\"loveimg\">#weprocess<\/h3>\n      <p class=\"lovetext\">Dengan memiliki fasilitas produksi sendiri, memberikan kontrol sepenuhnya pada kualitas kopi kami.<\/p>\n    <\/div>\n    <div class=\"col_love1\">\n      <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0716\/7233\/2564\/files\/homelove_icon_04.svg\" \/>\n      <h3 class=\"loveimg\">#weroast<\/h3>\n      <p class=\"lovetext\">Semua biji kopi kami di roasted langsung di perkebunan kami menggunakan mesin W15 Giesen yang memiliki sistem profiling untuk memastikan konsistensi.<\/p>\n    <\/div>\n    <div class=\"col_love2\">\n      <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0716\/7233\/2564\/files\/homelove_icon_05.svg\" \/>\n      <h3 class=\"loveimg\">#wedeliver<\/h3>\n      <p class=\"lovetext\">Kami memenuhi janji kami untuk menyediakan biji kopi berkualitas dengan standar premium dari kebun langsung ke cangkir anda dan tanpa menggunakan perantara #directtrade.<\/p>\n    <\/div>\n  <\/div>\n<\/div>"
+      }
+    },
+    "59354ba5-163b-4ae0-a098-8ffb8a99daa3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"family-container\">\n<div class=\"familyrow\">\n\n<div class=\"col_06\">\n<div class=\"slideshow-container\">\n\n<div class=\"mySlides fade\" style=\"display: none;\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0716\/7233\/2564\/files\/SUDANA_FAMILY1.png?v=1756361297\" style=\"width:100%\">\n<\/div>\n\n<div class=\"mySlides fade\" style=\"display: none;\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0716\/7233\/2564\/files\/SUDANA_FAMILY1.png?v=1756361297\" style=\"width:100%\">\n<\/div>\n\n<div class=\"mySlides fade\" style=\"display: block;\">\n  <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0716\/7233\/2564\/files\/SUDANA_FAMILY1.png?v=1756361297\" style=\"width:100%\">\n<\/div>\n\n<\/div>\n\n<div style=\"display: none; text-align:center\">\n  <span class=\"dot\"><\/span> \n  <span class=\"dot\"><\/span> \n  <span class=\"dot active\"><\/span> \n<\/div>\n\n<script>\nlet slideIndex = 0;\nshowSlides();\n\nfunction showSlides() {\n  let i;\n  let slides = document.getElementsByClassName(\"mySlides\");\n  let dots = document.getElementsByClassName(\"dot\");\n  for (i = 0; i < slides.length; i++) {\n    slides[i].style.display = \"none\";  \n  }\n  slideIndex++;\n  if (slideIndex > slides.length) {slideIndex = 1}    \n  for (i = 0; i < dots.length; i++) {\n    dots[i].className = dots[i].className.replace(\" active\", \"\");\n  }\n  slides[slideIndex-1].style.display = \"block\";  \n  dots[slideIndex-1].className += \" active\";\n  setTimeout(showSlides, 2000); \/\/ Change image every 2 seconds\n}\n<\/script>\n\n<\/div>\n<div class=\"rightcol scrollable-column\">\n  <div class=\"familytextheading\">\n    <h3>PESAN DARI <\/h3>\n    <h1>KELUARGA Bali Beans<\/h1>\n    <h4>MENANAM KOPI SEJAK 1985<\/h4>   \n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0716\/7233\/2564\/files\/bali_beans_logo_with_two_lines2.png?v=1682595251\"><\/div>\n<div class=\"message\">\n<p>Kami, keluarga Sudana, telah menanam kopi sejak 1985 di perkebunan organik kami di dataran tinggi Kintamani, Bali. Dengan ketinggian 3.200–3.900 kaki, cuaca sejuk dan tanah vulkanik menciptakan kopi Arabika premium yang berkualitas tinggi. Bersama petani lokal dalam sistem tradisional Subak Abian, kami menjaga tradisi sekaligus mendorong produksi kopi spesialti yang lebih berkelanjutan.\n\nMelalui Bali Beans, kami mengelola setiap proses dari kebun hingga cangkir—menanam, memproses, memanggang, hingga menyajikan kopi langsung tanpa tengkulak. Kini, kopi kami dapat dinikmati di perkebunan Bali Beans, coffee shop kami di Umalas, maupun dengan memesan online.\n\nMari menikmati kopi bersama!\nKeluarga Bali Beans\n<\/p>\n<p class=\"lastp\">Let's drink coffee!<\/p>\n<h4>KELUARGA Bali Beans\n<\/h4>\n<\/div>\n<\/div><script>\n    const scrollableColumn = document.querySelector('.scrollable-column');\n<\/script>\n\n<\/div><\/div>"
+      }
+    },
+    "6141ff4c-4806-476e-a165-89057b52a936": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"row sectionheader\">\n  <div class=\"col-md-12\">\n    <h5>TERBARU<\/h5>\n    <h1>PERS DAN MEDIA<\/h1>\n    <h4>KENALI KAMI<\/h4>\n  <\/div>\n<\/div>"
+      }
+    },
+    "e1b3694e-a027-45a1-82d1-418266966110": {
+      "type": "blog-posts-list",
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "featured_blog_title": "",
+        "blog_posts": "press",
+        "item_distance": 15,
+        "post_limit": 5,
+        "limit_content_des": 22,
+        "margin_bottom_title": 0,
+        "margin_bottom_info": 13,
+        "margin_bottom_des": 6,
+        "show_more_button_text_color": "#ffffff",
+        "show_more_button_border_color": "#1e1e1e",
+        "show_more_button_background_color": "#1e1e1e",
+        "show_more_button_text_color_hover": "#000000",
+        "show_more_button_border_color_hover": "#ffffff",
+        "show_more_button_background_color_hover": "#ffffff",
+        "view_all": "",
+        "font_weight_view_all": "400",
+        "mg_top_view": 0,
+        "enable_border_view_all": true,
+        "link_view_all": "",
+        "color_view_all": "#3c3c3c"
+      }
+    },
+    "17cdd724-57a4-4de3-a96c-4677c1d3b4c6": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n   \n.testimonial-container {\n\tbox-sizing: content-box;\n\tmax-width: 700px;\n\tmargin-left: auto;\n\tmargin-right: auto;\n\tpadding-left: 0px;\n\tpadding-right: 0px;\n\tpadding-top: 40px;\n}\n.indentity {\n\tmargin: 0!important\n}\nfigure.testimonials {\n\tposition: relative;\n\tfloat: left;\n\toverflow: hidden;\n\tmargin: 10px 1%;\n\tpadding: 0 20px;\n\ttext-align: left;\n\tbox-shadow: none !important;\n}\nfigure.testimonials * {\n\t-webkit-box-sizing: border-box;\n\tbox-sizing: border-box;\n\t-webkit-transition: all 0.35s cubic-bezier(0.25, 0.5, 0.5, 0.9);\n\ttransition: all 0.35s cubic-bezier(0.25, 0.5, 0.5, 0.9);\n}\nfigure.testimonials blockquote {\n\tcolor: #fff;\n\tdisplay: block;\n    text-align: center;\n    font-family: \"Helvetica\", Sans-serif;\n    font-size: 20px;\n    font-weight: 500;\n\tline-height: 29px;\n\tmargin: 0;\n}\n\nfigure.testimonials .btn {\n\ttop: 100%;\n\twidth: 0;\n\theight: 0;\n\tborder-left: 0 solid transparent;\n\tborder-right: 25px solid transparent;\n\tborder-top: 25px solid #fff;\n\tmargin: 0;\n\tposition: absolute;\n}\nfigure.testimonials .peopl {\n\tmargin: 0;\n\tcolor: #000;\n}\nfigure.testimonials .peopl h3 {\n\tcolor: #31AFD7;\n    text-align: center;\n\tmargin: 0;\n}\n.slick-slider {\n\tposition: relative;\n\tdisplay: block;\n\tbox-sizing: border-box;\n\tuser-select: none;\n\t-webkit-touch-callout: none;\n\t-khtml-user-select: none;\n\t-ms-touch-action: pan-y;\n\ttouch-action: pan-y;\n\t-webkit-tap-highlight-color: transparent;\n}\n.slick-list {\n\tposition: relative;\n\tdisplay: block;\n\toverflow: hidden;\n\tmargin: 0;\n\tpadding: 0;\n}\n.slick-list:focus {\n\toutline: none;\n}\n.slick-list.dragging {\n\tcursor: pointer;\n\tcursor: hand;\n}\n.slick-slider .slick-track, .slick-slider .slick-list {\n\ttransform: translate3d(0, 0, 0);\n}\n.slick-track {\n\tposition: relative;\n\ttop: 0;\n\tleft: 0;\n\tdisplay: block;\n}\n.slick-loading .slick-track {\n\tvisibility: hidden;\n}\n.slick-slide {\n\tdisplay: none;\n\tfloat: left;\n\theight: 100%;\n\tmin-height: 1px;\n}\n\n.slick-slide.slick-loading img {\n\tdisplay: none;\n}\n.slick-slide.dragging img {\n\tpointer-events: none;\n}\n.slick-initialized .slick-slide {\n\tdisplay: block;\n}\n.slick-loading .slick-slide {\n\tvisibility: hidden;\n}\n.slick-vertical .slick-slide {\n\tdisplay: block;\n\theight: auto;\n\tborder: 1px solid transparent;\n}\n.slick-btn.slick-hidden {\n\tdisplay: none;\n}\n \n.slick-prev, .slick-next {\n\tfont-size: 0;\n\tline-height: 0;\n\tposition: absolute;\n\ttop: 40%;\n\tdisplay: block;\n\twidth: 20px;\n\theight: 20px;\n\tpadding: 0;\n\ttransform: translate(0, -50%);\n\tcursor: pointer;\n\tcolor: transparent;\n\tborder: none;\n\toutline: none;\n\tbackground: transparent;\n}\n.slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {\n\tcolor: transparent;\n\toutline: none;\n\tbackground: transparent;\n}\n.slick-prev:hover:before, .slick-prev:focus:before, .slick-next:hover:before, .slick-next:focus:before {\n\topacity: 1;\n}\n.slick-prev:before, .slick-next:before {\n\tfont-family: \"FontAwesome\";\n\tfont-size: 40px;\n\tline-height: 1;\n\topacity: .75;\n\tcolor: white;\n\t-webkit-font-smoothing: antialiased;\n\t-moz-osx-font-smoothing: grayscale;\n}\n.slick-prev {\n\tleft: -40px;\n}\n\n.slick-next {\n\tright: -40px;\n}\n\n  <\/style>\n<div class=\"testimonial\">\n<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-md-6\">\n      <iframe width=\"100%\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/JyxD7zSsNbM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>\n    <\/div>\n    <div class=\"col-md-6\">\n      <div class=\"sectionheader\">\n        <h5>TESTIMONIAL<\/h5>\n        <h1>APA YANG MEREKA KATAKAN<\/h1>\n        <h4>TENTANG KAMI<\/h4>\n      <\/div>\n <div class=\"testimonial-container\">\n  <div class=\"testiSlide\">\n    <div>\n      <figure class=\"testimonials\">\n        <div class=\"peopl\">\n            <h3>Barry Williams<\/h3>\n          <\/div>\n        <blockquote>Kopi spesial yang fantastis (espresso dan latte) dipanggang di lokasi. Saya juga harus mencoba teh cascara (buah kopi kering) yang lezat yang saya inginkan untuk sementara waktu. Mereka juga memiliki banyak pilihan buku kopi dan saya mengambil beberapa biji asal tunggal lokal yang cukup murah\n          \n        <\/blockquote>\n      <\/figure>\n    <\/div>\n\n    <div>\n        <figure class=\"testimonials\">\n          <div class=\"peopl\">\n              <h3>Jakub Kapušňák<\/h3>\n            <\/div>\n          <blockquote>Periksa @balibeanscoffee Instagram mereka terlebih dahulu karena itu pasti akan membuat Anda sangat ingin datang ke sini! Keluarga menjalankan bisnis, kopi organik dan menyiapkan semua jenis kopi tepat di tengah-tengah perkebunan mereka. Ini seperti mimpi untuk datang ke sini bagi siapa saja yang menyukai kopi. \n          <\/blockquote>\n        <\/figure>\n      <\/div>\n\n      <div>\n        <figure class=\"testimonials\">\n          <div class=\"peopl\">\n              <h3>Nahla Abdul Wahab<\/h3>\n            <\/div>\n          <blockquote>Aktivitas yang benar-benar menakjubkan, berat dengan budaya dan pengaruh keluarga di garis depan. 5 bintang sepanjang jalan! 🙂 xo ❤❤\n          <\/blockquote>\n        <\/figure>\n      <\/div>\n\n      <div>\n        <figure class=\"testimonials\">\n          <div class=\"peopl\">\n              <h3>Rex Sumner<\/h3>\n            <\/div>\n          <blockquote>Kopi yang sangat berbeda. Ketika kami berkunjung di sore hari, daripada memberi kami kopi biasa, kami menerima kopi ringan dan harum yang lebih mirip dengan teh dan paling cocok untuk sore hari. Ada juga teh yang terbuat dari kulit kopi, rasa awal namun menyenangkan.\n          <\/blockquote>\n        <\/figure>\n      <\/div>\n\n  <\/div>\n<\/div>\n<a href=\"https:\/\/www.google.com\/search?q=bali+beans&oq=bali+beans&aqs=chrome.0.69i59j0l3j69i60l4.4193j0j9&sourceid=chrome&ie=UTF-8#lrd=0x2dd18b70f6fecaaf:0xafc9f788b5810e97,1,,,\" \n target=\"_blank\" class=\"viewallreviews\">\nKUNJUNGI ULASAN GOOGLE\n<\/a>    <\/div>\n  <\/div>\n<\/div>\n<\/div>\n \n    <script  src=\"function.js\"><\/script>\n <script>\n    $(document).ready(function () {\n\t$('.testiSlide').slick({\n\t\tslidesToShow: 1,\n\t\tslidesToScroll: 1,\n\t\tautoplay: true,\n\t\tautoplaySpeed: 1500,\n\t\tresponsive: [{\n\t\tbreakpoint: 850,\n\t\tsettings: {\n\t\tslidesToShow: 1,\n\t\tslidesToScroll: 1,\n\t\tinfinite: true,\n\t\t}\n\t\t}]\n\t});\n});\n <\/script>"
+      }
+    },
+    "1632364695b0f88b4f": {
+      "type": "instagram",
+      "blocks": {
+        "566545cd-024f-4585-941a-d5bd625fbe4c": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_007.jpg",
+            "link": "#"
+          }
+        },
+        "c9c82244-f352-45ee-b86c-a77b2765317a": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_002.jpg",
+            "link": "#"
+          }
+        },
+        "2608f7ec-f962-4cc2-ab46-c0dcd2d419a7": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_005.jpg",
+            "link": "#"
+          }
+        },
+        "fc8fa6da-8960-435b-a1f5-9c39e2f4c91d": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_003.jpg",
+            "link": "#"
+          }
+        },
+        "e88c11d8-b10c-4b36-b3c0-148f7e6a87ec": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_004.jpg",
+            "link": "#"
+          }
+        },
+        "ffc0ea8b-3b8d-4158-908a-92f9ecdc03b4": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_003.jpg",
+            "link": "#"
+          }
+        },
+        "0967215d-037b-4556-aa67-40ad99f0aa2f": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_006.jpg",
+            "link": ""
+          }
+        },
+        "db08bf6b-382d-4758-8a52-9d271cb5fca7": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_008.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "566545cd-024f-4585-941a-d5bd625fbe4c",
+        "c9c82244-f352-45ee-b86c-a77b2765317a",
+        "2608f7ec-f962-4cc2-ab46-c0dcd2d419a7",
+        "fc8fa6da-8960-435b-a1f5-9c39e2f4c91d",
+        "e88c11d8-b10c-4b36-b3c0-148f7e6a87ec",
+        "ffc0ea8b-3b8d-4158-908a-92f9ecdc03b4",
+        "0967215d-037b-4556-aa67-40ad99f0aa2f",
+        "db08bf6b-382d-4758-8a52-9d271cb5fca7"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "disable_padding_content": false,
+        "type_instagram": "default",
+        "block_layout": "grid",
+        "mg_top_desktop": 20,
+        "mg_top_tablet": 35,
+        "mg_top_mobile": 0,
+        "mg_bottom_desktop": 40,
+        "mg_bottom_tablet": 40,
+        "mg_bottom_mobile": 35,
+        "enable_border_instagram": false,
+        "instagram_border_color": "#ffffff",
+        "instagram_bg": "#ffffff",
+        "instagram_bg_gradient": "",
+        "instagram_title": "",
+        "enable_border_title": false,
+        "border_color_title": "#232323",
+        "color_title": "#232323",
+        "mg_bottom_title": 0,
+        "fontsize_title": 20,
+        "fontsize_title_mb": 20,
+        "instagram_des": "",
+        "color_des": "#3c3c3c",
+        "fontsize_des": 12,
+        "margin_bottom_des": 35,
+        "title_align": "center",
+        "view_all": "",
+        "view_all_fs": 12,
+        "view_all_align": "center",
+        "font_weight_view_all": "400",
+        "mg_bottom_view": 0,
+        "enable_border_view_all": true,
+        "link_view_all": "",
+        "color_view_all": "#3c3c3c",
+        "display_instagram_button": false,
+        "instagram_button_text": "View Gallery",
+        "type_button_more": "load",
+        "instagram_button_link": "shopify:\/\/collections\/congue",
+        "enable_underline_button": false,
+        "color_button": "#ffffff",
+        "border_color_button": "#232323",
+        "bg_color_button": "#232323",
+        "bg_color_gradient_button": "",
+        "color_button_hover": "#232323",
+        "border_color_button_hover": "#232323",
+        "bg_color_button_hover": "#ffffff",
+        "bg_color_gradient_button_hover": "",
+        "maxwidth_button": 230,
+        "mg_top_button": 30,
+        "embed_code": "",
+        "type_instagram_by_gallery": "popup_image",
+        "images_per_row": "4",
+        "instagram_item_limit": 5,
+        "grid_gap": 5,
+        "enable_hide_portion": false,
+        "slide_ins": "default_ins",
+        "display_arrow": true,
+        "icon_for_image": "",
+        "effects_bg": "",
+        "effects_opacity": 0
+      }
+    },
+    "pina-instagram": {
+      "type": "pina-instagram",
+      "settings": {
+        "title": "",
+        "show_profile": false,
+        "timeline": "all",
+        "small": "2",
+        "medium": "3",
+        "large": "4",
+        "gutter": "2",
+        "count": "10",
+        "hashtags": "",
+        "container_class": "page-width",
+        "margin_top": "30px",
+        "margin_left": "auto",
+        "margin_bottom": "30px",
+        "margin_right": "auto",
+        "desktop_width": "1220px",
+        "mobile_width": "",
+        "tablet_width": ""
+      }
+    },
+    "932e5cf2-76dc-409d-aac2-2d6bbf706cd2": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"container\">\n<div class=\"row getintouch\">\n<div class=\"col-md-6\">\n<img src=\"https:\/\/balibeans.com\/wp-content\/uploads\/2023\/01\/Experience-4-1.jpg\" \/>\n<\/div>\n<div class=\"col-md-6 leftcol\">\n<div class=\"getintouch-head\">\n<h1>HUBUNGI KAMI<\/h1>\n<p>Kami yakin anda tidak berkompromi dengan kualitas rasa dan kearifan murni. Itulah mengapa kami tahu anda akan menyukai Bali Beans. Hubungi kami untuk 'BALI BEANS JOURNEY', pemesanan, distribusi, atau pertanyaan lain.<\/p>\n<\/div>\n<div class=\"globo-formbuilder\" data-id=\"MTA1MTc0\"><\/div>\n<\/div>\n<\/div>\n<\/div>"
+      }
+    },
+    "b1ccd62b-964a-4a88-865c-8540b60389ef": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n* {box-sizing: border-box;}\nbody {font-family: Verdana, sans-serif;}\n.mySlides {display: none;}\nimg {vertical-align: middle;}\n\n\/* Slideshow container *\/\n.slideshow-container {\n  max-width: 1000px;\n  position: relative;\n  margin: auto;\n}\n\n\/* Caption text *\/\n\n\/* Number text (1\/3 etc) *\/\n.numbertext {\n  color: #f2f2f2;\n  font-size: 12px;\n  padding: 8px 12px;\n  position: absolute;\n  top: 0;\n}\n\n\/* The dots\/bullets\/indicators *\/\n.dot {\n  height: 15px;\n  width: 15px;\n  margin: 0 2px;\n  background-color: #bbb;\n  border-radius: 50%;\n  display: inline-block;\n  transition: background-color 0.6s ease;\n}\n\n.active {\n  background-color: #717171;\n}\n\n\/* Fading animation *\/\n.fade {\n  animation-name: fade;\n  animation-duration: 0.5s;\n}\n\n@keyframes fade {\n  from {opacity: .8} \n  to {opacity: 1}\n}\n\n\n<\/style>"
+      }
+    },
+    "a87a625a-365a-434e-839f-a6091c7c6202": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"row sectionheader\">\n  <div class=\"col-md-12\">\n    <h5>INSTAGRAM<\/h5>\n    <h1>#BALIBEANSCOFFEE<\/h1>\n    <h4>GET SOCIAL<\/h4>\n  <\/div>\n<\/div>"
+      }
+    },
+    "95aeac6a-e8c8-4486-9547-a018ace04593": {
+      "type": "instagram",
+      "blocks": {
+        "43d7430a-f101-470b-a4d9-4de003af84b0": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_004.jpg",
+            "link": ""
+          }
+        },
+        "644b6872-2c18-4593-9b6b-a3dfa6a59e94": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_001.jpg",
+            "link": ""
+          }
+        },
+        "513ab8c2-e9dd-4f08-813e-a7d83b58cd20": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_006.jpg",
+            "link": ""
+          }
+        },
+        "8fdeec47-4228-4db7-9853-ace909702426": {
+          "type": "instagram",
+          "settings": {
+            "enable": true,
+            "image": "shopify:\/\/shop_images\/Instagram_008.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "43d7430a-f101-470b-a4d9-4de003af84b0",
+        "644b6872-2c18-4593-9b6b-a3dfa6a59e94",
+        "513ab8c2-e9dd-4f08-813e-a7d83b58cd20",
+        "8fdeec47-4228-4db7-9853-ace909702426"
+      ],
+      "disabled": true,
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "disable_padding_content": false,
+        "type_instagram": "default",
+        "block_layout": "grid",
+        "mg_top_desktop": 0,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 0,
+        "mg_bottom_desktop": 80,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 20,
+        "enable_border_instagram": false,
+        "instagram_border_color": "#ffffff",
+        "instagram_bg": "#ffffff",
+        "instagram_bg_gradient": "",
+        "instagram_title": "",
+        "enable_border_title": false,
+        "border_color_title": "#232323",
+        "color_title": "#232323",
+        "mg_bottom_title": 15,
+        "fontsize_title": 16,
+        "fontsize_title_mb": 16,
+        "instagram_des": "",
+        "color_des": "#3c3c3c",
+        "fontsize_des": 16,
+        "margin_bottom_des": 35,
+        "title_align": "center",
+        "view_all": "",
+        "view_all_fs": 12,
+        "view_all_align": "center",
+        "font_weight_view_all": "400",
+        "mg_bottom_view": 30,
+        "enable_border_view_all": true,
+        "link_view_all": "",
+        "color_view_all": "#3c3c3c",
+        "display_instagram_button": true,
+        "instagram_button_text": "View Gallery",
+        "type_button_more": "load",
+        "instagram_button_link": "",
+        "enable_underline_button": false,
+        "color_button": "#ffffff",
+        "border_color_button": "#232323",
+        "bg_color_button": "#232323",
+        "bg_color_gradient_button": "",
+        "color_button_hover": "#232323",
+        "border_color_button_hover": "#232323",
+        "bg_color_button_hover": "#ffffff",
+        "bg_color_gradient_button_hover": "",
+        "maxwidth_button": 230,
+        "mg_top_button": 30,
+        "embed_code": "",
+        "type_instagram_by_gallery": "popup_image",
+        "images_per_row": "4",
+        "instagram_item_limit": 4,
+        "grid_gap": 5,
+        "enable_hide_portion": false,
+        "slide_ins": "default_ins",
+        "display_arrow": true,
+        "icon_for_image": "",
+        "effects_bg": "",
+        "effects_opacity": 0
+      }
+    },
+    "175635786371982ae1": {
+      "type": "apps",
+      "blocks": {
+        "vibe_instagram_feed_grid_HpkA4r": {
+          "type": "shopify:\/\/apps\/vibe-instagram-feed\/blocks\/grid\/a89f8a1d-e2e4-49c3-8d2c-363211f74779",
+          "settings": {
+            "instagram_feed_id": "684fd460c039b395ac361bad",
+            "post_click_action": "popup",
+            "items_per_row_lg": "3",
+            "items_per_row_xs": "1",
+            "item_spacing_lg": 30,
+            "item_spacing_xs": 10,
+            "loading_mode": false,
+            "item_cta": "SEE MORE",
+            "item_product_cta": "SHOP THIS LOOK",
+            "item_ratio": "1\/1",
+            "blocktitle": "",
+            "heading_lg": 36,
+            "heading_xs": 36,
+            "description": "",
+            "description_lg": 16,
+            "description_xs": 16,
+            "text_alignment": "center",
+            "spacing_text_vs_posts_lg": 24,
+            "spacing_text_vs_posts_xs": 24,
+            "top_padding_lg": 0,
+            "bottom_padding_lg": 0,
+            "top_padding_xs": 0,
+            "bottom_padding_xs": 0,
+            "custom_css": ""
+          }
+        }
+      },
+      "block_order": [
+        "vibe_instagram_feed_grid_HpkA4r"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "2f1503cf-2466-410e-9c92-05c6c2351f58",
+    "169c1b4b-75e0-4783-bbe9-70263e6074f2",
+    "01616208-2a74-4f0d-8cb1-1ece261dc5d0",
+    "8efc893e-afb2-4fef-b6b1-4bee91b3bcfd",
+    "59354ba5-163b-4ae0-a098-8ffb8a99daa3",
+    "6141ff4c-4806-476e-a165-89057b52a936",
+    "e1b3694e-a027-45a1-82d1-418266966110",
+    "17cdd724-57a4-4de3-a96c-4677c1d3b4c6",
+    "1632364695b0f88b4f",
+    "pina-instagram",
+    "932e5cf2-76dc-409d-aac2-2d6bbf706cd2",
+    "b1ccd62b-964a-4a88-865c-8540b60389ef",
+    "a87a625a-365a-434e-839f-a6091c7c6202",
+    "95aeac6a-e8c8-4486-9547-a018ace04593",
+    "175635786371982ae1"
+  ]
+}

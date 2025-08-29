@@ -13,7 +13,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<video class=\"home-video\" width=\"100%\" height=\"700\" muted=\"\" controls=\"\" allow=\"autoplay\" autoplay=\"\" loop=\"true\" style=\"\n    object-fit: cover;\">\n \n <source src=\"https://cdn.shopify.com/videos/c/o/v/0e5e3165a7ff4ca499e18cd81b81cdc9.mp4\">\n\n</video>\n<script>\n    document.getElementById('vid').play();\n</script>"
+        "custom_liquid": "<video class=\"home-video\" width=\"100%\" height=\"700\" muted=\"\" controls=\"\" allow=\"autoplay\" autoplay=\"\" loop=\"true\" style=\"\n    object-fit: cover;\">\n \n <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/0e5e3165a7ff4ca499e18cd81b81cdc9.mp4\">\n\n<\/video>\n<script>\n    document.getElementById('vid').play();\n<\/script>"
       }
     },
     "banner": {
@@ -142,7 +142,7 @@
           "settings": {
             "show_block": true,
             "heading": "",
-            "link": "shopify://collections/belle-doll-featured-products"
+            "link": "shopify:\/\/collections\/belle-doll-featured-products"
           }
         },
         "2f7f02ac-4072-40ea-844f-59943e256971": {
@@ -151,7 +151,7 @@
           "settings": {
             "show_block": true,
             "heading": "Custom Block",
-            "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... or whatever you like.</p>\n\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.</p>"
+            "text": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... or whatever you like.<\/p>\n\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
           }
         }
       },
@@ -260,7 +260,7 @@
             "color_icon": "#ffffff",
             "bg_color_icon": "#000000",
             "btn_text": "Sample Button",
-            "link": "shopify://collections/belle-doll-featured-products",
+            "link": "shopify:\/\/collections\/belle-doll-featured-products",
             "button_1_width": 235,
             "enable_button_custom_border": false,
             "button_color": "#ffffff",
